@@ -4,7 +4,7 @@
 
 ### Resultado
 
-https://lira.github.io/cursos/css/button-with-effects/
+(https://lira.github.io/cursos/css/button-with-effects/)
 
 ### Referência
 

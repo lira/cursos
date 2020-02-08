@@ -37,7 +37,7 @@ a span:nth-child(1) {
     width: 100%;
     height: 2px;
     background: linear-gradient(to right, #0c002b, #1779ff);
-    animation: animate1 1s linear infinite;
+    animation: animate1 2s linear infinite;
 }
 
 @keyframes animate1 {
