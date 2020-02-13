@@ -19,3 +19,17 @@
 ### Referência
 
 <https://www.youtube.com/watch?v=9-GXlvohlvA>
+
+## Código CSS Only Image Distortion Hover Effects
+
+### Remover fundo de imagens
+
+<https://www.stickermule.com/br/trace/>
+
+### Resultado
+
+<https://lira.github.io/cursos/css/image-distortion-hover-effects/>
+
+### Referência
+
+<https://www.youtube.com/watch?v=F_h4Bm9iu50>
