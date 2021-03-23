@@ -33,3 +33,13 @@
 ### Referência
 
 <https://www.youtube.com/watch?v=F_h4Bm9iu50>
+
+### Imagem da terra em 3D com Texto em 3D
+
+### Resultado
+
+<https://lira.github.io/cursos/css/3d-rotating-text-around-the-earth/>
+
+### Referência
+
+<https://www.youtube.com/watch?v=pKYckdWekv4>
