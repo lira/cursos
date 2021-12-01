@@ -19,3 +19,13 @@
 ### Referência
 
 <https://www.youtube.com/watch?v=6HFpw5fcaD8>
+
+## Exemplo Website with Auto Typing Text Effect Using HTML CSS Javascript
+
+### Resultado
+
+<https://lira.github.io/cursos/css-and-js/site-with-typing-text/>
+
+### Referência
+
+<https://www.youtube.com/watch?v=42M9esAvAEU&t=20s>
