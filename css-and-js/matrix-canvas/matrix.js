@@ -90,9 +90,8 @@ let charArr = [
           ctx.font = fontSize + "px sans-serif";
           ctx.fillText(this.value, this.x, this.y);
           this.y += this.speed;
-
           if (this.y > ch) {
-              this.y = Math.random() * ch/2 - 50;
+              this.y = (Math.random() * ch) / 2 - 50;
               this.x = Math.floor(Math.random() * maxColumns) * fontSize;
               this.speed = (-Math.random() * fontSize * 3) / 4 + (fontSize * 3) / 4;
           }
@@ -109,7 +108,6 @@ let charArr = [
     for (let i = 0; i < fallingCharArr.length && frames % 2 == 0; i++) {
         fallingCharArr[i].draw(ctx);
     }
-
     requestAnimationFrame(update);
     frames++;
   };
