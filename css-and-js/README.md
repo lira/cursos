@@ -10,7 +10,7 @@
 
 <https://www.youtube.com/watch?v=I0R0T7p5oR8>
 
-## Exemplo de barra de navegação fixa com efeito de trasiç
+## Exemplo de barra de navegação fixa com efeito de transição
 
 ### Resultado
 
