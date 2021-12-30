@@ -28,4 +28,12 @@
 
 ### Referência
 
-<https://www.youtube.com/watch?v=42M9esAvAEU&t=20s>
+<https://www.youtube.com/watch?v=42M9esAvAEU&t>
+
+## Exemplo Matrix com canvas
+
+### Resultado
+<https://lira.github.io/cursos/css-and-js/matrix-canvas/>
+
+### Referência
+<https://www.youtube.com/watch?v=KKRlhyasaTA&t>
